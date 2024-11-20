@@ -1,0 +1,8 @@
+prefix=/home/drp/catkin_ws/src/my_ros_package/devel
+
+Name: practice
+Description: Description of practice
+Version: 0.0.0
+Cflags: -I/home/drp/catkin_ws/src/my_ros_package/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime roscpp rospy std_msgs

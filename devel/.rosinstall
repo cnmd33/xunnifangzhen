@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/drp/catkin_ws/src/my_ros_package/devel/setup.sh

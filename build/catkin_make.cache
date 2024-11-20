@@ -1,0 +1,2 @@
+hello_ros:practice
+-DCATKIN_DEVEL_PREFIX=/home/drp/catkin_ws/src/my_ros_package/devel -DCMAKE_INSTALL_PREFIX=/home/drp/catkin_ws/src/my_ros_package/install -G Unix Makefiles
